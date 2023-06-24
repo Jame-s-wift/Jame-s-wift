@@ -25,7 +25,7 @@ Im a Small Student developer from Singapore 🇸🇬 and I like to code. I like 
 - 🔭 Im currently working on BMI Calc
 - 🌱 Im currently learning Swift
 - 📫 You can reach me by emailing jtyflol@gmail.com
-- 😄 Pronouns: He/ Him (or transparent)
+- 😄 Pronouns: He/ Him 
 
 ### My projects
 - [BMI Calc](https://github.com/Jame-s-wift/BMI-Calc): A BMI Calculator and healthy lifestyle promotion app (coming from me seems pretty contradictory)[In Development]
