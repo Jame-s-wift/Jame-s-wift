@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Im a Small Student developer from Singapore 🇸🇬 and I like to code. I like to code however im still learning, and if you have any project suggestions, go to [Suggest-A-Project](https://github.com/Jame-s-wift/Suggest-A-Project)! Im excited to see what cool ideas y'alls have for me to make 😃!
 
-- 🔭 Im currently working on BMI Calc
+- 🔭 Im currently working on a bunch of projects
 - 🌱 Im currently learning Swift
 - 📫 You can reach me by emailing jtyflol@gmail.com
 - 😄 Pronouns: He/ Him 
